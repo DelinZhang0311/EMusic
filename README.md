@@ -6,6 +6,20 @@
 Ⅱ、开发工具：
 	Android Studio 2.2
 
+Ⅲ、详细设计：
 
-Ⅲ、需求分析：
+	※ Class MainActivity   主界面各种功能的实现，包括播放控制、线程、摇一摇监听等
+
+	※ Class ListActivity      播放列表的实现，设置列表点击事件
+
+	※ Class MusicAdapter   音乐信息适配器，将音乐加入音乐列表
+
+	※ Class MusicData        存储音乐各项信息
+
+	※ Class ReaderMusic     从SD卡搜寻音频文件
+
+	※Class WelcomeActivity  欢迎页面
+
+	※Class MenuActivity     关于页面        
+
 
